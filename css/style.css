@@ -1,0 +1,204 @@
+a:link {
+  color: lawngreen;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: blue;
+}
+
+.bod {
+  background-color: blueviolet;
+  margin: 0;
+}
+
+.links {
+  color: white;
+  text-decoration: none;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+#nav {
+  margin-right: 100px;
+  justify-content: space-between;
+  font-size: large;
+}
+#hed {
+  color: red;
+  font-size: 40px;
+  margin: 200px 0 100px 0;
+}
+#sof {
+  color: white;
+  font-size: 20px;
+  margin: 20px 0 200px 0;
+}
+#top {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+#por {
+  color: white;
+  font-size: large;
+  margin-left: 200px;
+  margin-top: 0;
+}
+#content {
+  text-align: center;
+  justify-content: space-around;
+}
+#log {
+  margin-bottom: 0px;
+
+  justify-content: space-around;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.bod1 {
+  background-color: yellow;
+  margin: 0;
+}
+#nav1 {
+  color: white;
+  justify-content: space-around;
+  margin-right: 100px;
+  font-size: large;
+}
+#por1 {
+  color: white;
+  margin-left: 200px;
+  margin-top: 0;
+}
+#top1 {
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+  margin-top: 0;
+  height: 30px;
+}
+
+#img {
+  display: flex;
+  justify-content: center;
+  margin: 35px 0;
+}
+
+#content1 {
+  text-align: center;
+}
+
+#con {
+  margin: 100px 0 50px 0;
+  font-size: 30px;
+}
+.links1 {
+  text-decoration: none;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.bod2 {
+  background-color: skyblue;
+  margin: 0;
+}
+#nav2 {
+  color: white;
+  margin-right: 100px;
+  font-size: large;
+}
+.linksss {
+  text-decoration: none;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+#por2 {
+  color: white;
+  margin-left: 200px;
+  margin-top: 0;
+}
+
+#top2 {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(169, 169, 169, 0.7);
+
+  height: 40px;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+#line1 {
+  display: inline-flex;
+}
+
+#line2 {
+  display: inline-flex;
+}
+
+#para {
+  margin-top: 35px;
+  text-align: center;
+}
+.parra {
+  text-align: center;
+}
+.hedddding {
+  text-align: center;
+}
+.alpha {
+  border: solid blueviolet 3px;
+  background-color: indigo;
+  margin: 10px;
+  width: 220px;
+  height: 325px;
+  font-size: small;
+}
+
+#heddding {
+  text-align: center;
+}
+.headdddding {
+  text-align: end;
+  margin-top: 0px;
+  margin-bottom: auto;
+  margin-left: 0;
+}
+button {
+  margin-bottom: 2px;
+  margin-left: 2px;
+}
+.immg {
+  margin: 10px;
+}
+#content2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.demo {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 10px;
+}
+#footer {
+  background-color: indigo;
+  margin-bottom: 0;
+  height: 36px;
+}
+#headddddding{
+ color: white;
+ margin: 0;
+}
